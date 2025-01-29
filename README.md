@@ -1,4 +1,4 @@
-# Codigo de Barras
+# Código de Barras
 
 Este código Python gera e exibe um código de barras no formato EAN-13, que é um padrão amplamente utilizado para identificar produtos. Vamos detalhar cada parte do código:
 
